@@ -1,0 +1,35 @@
+ /* CSS Document */
+
+.turboSMTP-logo{
+	margin: 20px 0 10px;
+}
+.turboSMTP h2{
+	padding: 10px 0 0;
+	border-top: 1px #ccc solid;
+	margin: 30px 0 10px;
+}
+.turboSMTP-logo h2{
+	padding: inherit;
+	border-top: none;
+	margin-top: 30px;
+}
+.turboSMTP-left{
+	float: left;
+	width: 70%;
+}
+.turboSMTP-right{
+	float: right;
+	width: 25%;
+	margin-left: 5%;
+	height: 300px;
+}
+.button-primary.turboSMTP-free{
+	background-color:#009900;
+	border-color: #060;
+}
+.button-primary.turboSMTP-free:active,
+.button-primary.turboSMTP-free:hover,
+.button-primary.turboSMTP-free:focus{
+	background-color:#006600;
+	border-color: #030;
+}
