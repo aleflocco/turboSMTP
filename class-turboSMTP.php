@@ -42,11 +42,9 @@ function turboSMTP_page(){
 		$message = trim($_POST['turboSMTP_mail_message']);
 		$failed = 0;
 		if(!empty($to) && !empty($subject) && !empty($message)){
-			//die($to . ' - ' . $subject . ' - ' . $message);
 			try{
 				$result = wp_mail($to,$subject,$message);
 			}catch(phpmailerException $e){
-				//die($e);
 				$failed = 1;
 			}
 		}
