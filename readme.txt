@@ -8,15 +8,13 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Configure your WordPress to send e-mails using your personal e-mail via SMTP.
+Configure your WordPress to send e-mails using your personal e-mail via turboSMTP.
 
 == Description ==
 
-Configure your WordPress to send e-mails using your personal e-mail via SMTP.
+Configure your WordPress to send e-mails using your personal e-mail via tirboSMTP.
 
-Often useful when your WordPress does not send emails. 
-
-This happens because your server does not allow sending emails via PHP.
+Based on "MY SMTP WP" by Valerio Souza
 
 = Usage =
 
@@ -34,29 +32,30 @@ This happens because your server does not allow sending emails via PHP.
 
 == Contribute ==
 
-Use https://github.com/valeriosouza/my-smtp-wp
+Use https://github.com/aleflocco/turboSMTP
 
 == Changelog ==
 
 = 1.0.0 =
 
-* Release Initial
+* First Release
 
 == Screenshots ==
 
-1. Configure for Live
+1. Configure turboSMTP account
 
 2. Send a test e-mail
 
 == Frequently Asked Questions ==
 
-= Where can I get data from my SMTP? =
+= How can I get a turboSMTP account? =
 
-Most hosting forward these data at the time of signature. Companies like Gmail, Yahoo and Live provide this data on their websites.
+You can get a turboSMTP account on http://www.turbo-smtp.com.
+You can choose a free lifetime account (limited to 200 emails/day) or one of the montly/pay-as-you-go plans available on the website.
 
 = Configured and not send emails. =
 
-Make sure the data is correct. Also check that no other SMTP plugin currently active.
+Make sure your filled required fields with the right parameters. Also check that no other SMTP plugin is currently active.
 
 == Upgrade Notice ==
 
