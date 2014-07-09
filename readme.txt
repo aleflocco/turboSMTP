@@ -14,7 +14,7 @@ Configure your WordPress to send e-mails using your personal e-mail via turboSMT
 
 Configure your WordPress to send e-mails using your personal e-mail via tirboSMTP.
 
-Based on "MY SMTP WP" by Valerio Souza
+(Based on "MY SMTP WP" by Valerio Souza)
 
 = Usage =
 

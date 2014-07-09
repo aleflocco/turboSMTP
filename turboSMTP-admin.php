@@ -5,7 +5,7 @@
 			<?php _e('Email settings','turboSMTP'); ?>
 		</h2>
 		<p>
-			<?php _e('The sender address and sender name here specified will be used for all emails sent on Wordpress via turboSMTP.','turboSMTP'); ?>
+			<?php _e('The sender address and sender name here specified will be used for all emails sent on WordPress via turboSMTP.','turboSMTP'); ?>
 		</p>
 		<form action="" method="post" enctype="multipart/form-data" name="turboSMTP_form">
 			<table class="form-table">
