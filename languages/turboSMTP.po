@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: My SMTP WP\n"
-"POT-Creation-Date: 2014-07-08 13:05+0100\n"
-"PO-Revision-Date: 2014-07-08 13:05+0100\n"
+"POT-Creation-Date: 2014-07-09 15:31+0100\n"
+"PO-Revision-Date: 2014-07-09 15:31+0100\n"
 "Last-Translator: Alessandro Flocco <alessandro@sendblaster.com>\n"
 "Language-Team: Valério <valeriosza@gmail.com>\n"
 "Language: pt_BR\n"
@@ -28,36 +28,36 @@ msgstr ""
 msgid "Options saved."
 msgstr ""
 
-#: ../class-turboSMTP.php:58
+#: ../class-turboSMTP.php:56
 msgid "Message sent successfully!"
 msgstr ""
 
-#: ../class-turboSMTP.php:65
+#: ../class-turboSMTP.php:63
 msgid ""
 "Some errors occurred! Check the settings or if there are other plugins SMTP "
 "active!"
 msgstr ""
 
-#: ../class-turboSMTP.php:68
+#: ../class-turboSMTP.php:66
 msgid "The fields \"To\" can not be left blank when testing!"
 msgstr ""
 
-#: ../class-turboSMTP.php:79
+#: ../class-turboSMTP.php:77
 msgid "My Help Tab"
 msgstr ""
 
-#: ../class-turboSMTP.php:80
+#: ../class-turboSMTP.php:78
 msgid "Descriptive content that will show in My Help Tab-body goes here."
 msgstr ""
 
-#: ../turboSMTP-admin.php:6
+#: ../turboSMTP-admin.php:5
 msgid "Email settings"
 msgstr ""
 
-#: ../turboSMTP-admin.php:9
+#: ../turboSMTP-admin.php:8
 msgid ""
 "The sender address and sender name here specified will be used for all "
-"emails sent on Wordpress via turboSMTP."
+"emails sent on WordPress via turboSMTP."
 msgstr ""
 
 #: ../turboSMTP-admin.php:14
@@ -149,15 +149,15 @@ msgstr ""
 msgid "Register now and get 6.000 emails/month lifetime"
 msgstr ""
 
-#: ../turboSMTP-admin.php:126
+#: ../turboSMTP-admin.php:127
 msgid "Get turboSMTP free"
 msgstr ""
 
-#: ../turboSMTP-admin.php:128
+#: ../turboSMTP-admin.php:131
 msgid "Need help?"
 msgstr ""
 
-#: ../turboSMTP-admin.php:129
+#: ../turboSMTP-admin.php:134
 msgid "Contact turboSMTP support"
 msgstr ""
 
