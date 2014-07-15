@@ -4,7 +4,7 @@ Donate link:
 Tags: turboSMTP,smtp,mail,email,phpmailer,mailer,wp mail,mail smtp,ssl
 Requires at least: 2.7
 Tested up to: 3.9.1
-Stable tag: 1.0.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,9 +14,12 @@ Configure your WordPress to send emails using your own email account via turboSM
 
 Configure your WordPress to send emails using your own email account via turboSMTP.
 
-This plugin has been translated in Italian and Spanish
+This plugin has been translated in:
 
-(Based on "MY SMTP WP" by Valerio Souza)
+* Italian
+* Spanish
+* French
+* German
 
 = Usage =
 
@@ -25,6 +28,9 @@ This plugin has been translated in Italian and Spanish
 3. "Dashboard"->"Settings"->"turboSMTP"
 4. Configure the plugin according to your turboSMTP account.
 
+= Credits =
+
+*Based on "MY SMTP WP" by Valerio Souza*
 
 == Installation ==
 
@@ -32,15 +38,16 @@ This plugin has been translated in Italian and Spanish
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. "Dashboard"->"Settings"->"turboSMTP"
 
-== Contribute ==
-
-Use https://github.com/aleflocco/turboSMTP
-
 == Changelog ==
 
-= 1.0.0 =
+= 1.1 =
 
-* First Release
+* Added French translation
+* Added German translation
+
+= 1.0 =
+
+* Initial release.
 
 == Screenshots ==
 
@@ -62,6 +69,11 @@ Also check that no other SMTP plugin is currently active.
 
 == Upgrade Notice ==
 
-= 1.0.0 =
+= 1.1 =
+
+* Added French translation
+* Added German translation
+
+= 1.0 =
 
 * Initial release.

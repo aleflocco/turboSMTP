@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: turboSMTP\n"
+"POT-Creation-Date: 2014-07-09 15:31+0100\n"
+"PO-Revision-Date: 2014-07-14 15:31+0100\n"
+"Last-Translator: Alessandro Flocco <alessandro@sendblaster.com>\n"
+"Language-Team: turboSMTP <alessandro@turbo-smtp.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: _;__;_x;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../class-turboSMTP.php:27
+msgid "The field 'Email \"From\" address' must be a valid email address!"
+msgstr ""
+"Le champ 'Adresse \"De\" de l'email' doit être une adresse email valide!"
+
+#: ../class-turboSMTP.php:30
+msgid "The field \"SMTP Host\" can not be left blank!"
+msgstr "Le champ \"Hôte SMTP\" ne peut pas être laissé en blanc!"
+
+#: ../class-turboSMTP.php:33
+msgid "Options saved."
+msgstr "Options sauvegardées."
+
+#: ../class-turboSMTP.php:56
+msgid "Message sent successfully!"
+msgstr "Message envoyé avec succès!"
+
+#: ../class-turboSMTP.php:63
+msgid ""
+"Some errors occurred! Check the settings or if there are other plugins SMTP "
+"active!"
+msgstr ""
+"Quelques erreurs se sont produites! Vérifiez les paramètres ou s'il existe "
+"d'autres plugins SMTP actives!"
+
+#: ../class-turboSMTP.php:66
+msgid "The fields \"To\" can not be left blank when testing!"
+msgstr "Les champs \"À\" ne peuvent pas être laissés en blanc pendant le test!"
+
+#: ../class-turboSMTP.php:77
+msgid "My Help Tab"
+msgstr "Mon aide Tab"
+
+#: ../class-turboSMTP.php:78
+msgid "Descriptive content that will show in My Help Tab-body goes here."
+msgstr "Le contenu descriptif qui apparaîtra dans \"Mon aide Tab\" va ici."
+
+#: ../turboSMTP-admin.php:5
+msgid "Email settings"
+msgstr "Paramètres de l'email"
+
+#: ../turboSMTP-admin.php:8
+msgid ""
+"The sender address and sender name here specified will be used for all "
+"emails sent on WordPress via turboSMTP."
+msgstr ""
+"L'adresse de l'expéditeur et le nom de l'expéditeur indiqués ici seront "
+"utilisés pour tous les emails envoyés sur WordPress via turboSMTP."
+
+#: ../turboSMTP-admin.php:14
+msgid "Email \"From\" address"
+msgstr "Adresse \"De\" de l'email"
+
+#: ../turboSMTP-admin.php:21
+msgid "Email \"From\" name"
+msgstr "Nom \"De\" de l'email"
+
+#: ../turboSMTP-admin.php:28
+msgid "SMTP Options"
+msgstr "Options SMTP"
+
+#: ../turboSMTP-admin.php:33
+msgid "SMTP Host"
+msgstr "Hôte SMTP"
+
+#: ../turboSMTP-admin.php:39
+msgid "SMTP Encryption"
+msgstr "Cryptage SMTP"
+
+#: ../turboSMTP-admin.php:44
+msgid "No encryption"
+msgstr "Pas de cryptage"
+
+#: ../turboSMTP-admin.php:50
+msgid "Use SSL encryption"
+msgstr "Utiliser le cryptage SSL"
+
+#: ../turboSMTP-admin.php:56
+msgid "SMTP Port"
+msgstr "Port SMTP"
+
+#: ../turboSMTP-admin.php:62
+msgid ""
+"Use 25, 587 or 2525 for non encrypted connection, 465 or 25025 for encrypted "
+"connection"
+msgstr ""
+"Utilisez 25, 587 ou 2525 pour une connexion non cryptée, 465 ou 25 025 pour "
+"une connexion cryptée"
+
+#: ../turboSMTP-admin.php:67
+msgid "SMTP Authentication"
+msgstr "Authentification SMTP"
+
+#: ../turboSMTP-admin.php:72
+msgid "turboSMTP username"
+msgstr "Nom d'utilisateur turboSMTP"
+
+#: ../turboSMTP-admin.php:79
+msgid "turboSMTP password"
+msgstr "Mot de passe turboSMTP"
+
+#: ../turboSMTP-admin.php:90
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: ../turboSMTP-admin.php:94
+msgid "Send a Test Email"
+msgstr "Envoyer un email de test"
+
+#: ../turboSMTP-admin.php:100
+msgid "To:"
+msgstr "À:"
+
+#: ../turboSMTP-admin.php:106
+msgid ""
+"Type an email address here and then click Send Test to generate a test email."
+msgstr ""
+"Entrez une adresse email ici et puis cliquez sur Envoyer un test pour "
+"générer un message de test."
+
+#: ../turboSMTP-admin.php:111
+msgid "[turboSMTP WP] Your plugin is working"
+msgstr "[turboSMTP WP] Votre plugin fonctionne"
+
+#: ../turboSMTP-admin.php:112
+msgid ""
+"If you are reading this email, it is because your plugin is successfully "
+"configured."
+msgstr ""
+"Si vous lisez ce message, c'est parce-que votre plugin est correctement "
+"configuré."
+
+#: ../turboSMTP-admin.php:115
+msgid "Send Test"
+msgstr "Envoyer test"
+
+#: ../turboSMTP-admin.php:121
+msgid "Still don't have an account?"
+msgstr "Vous n'avez pas encore un compte?"
+
+#: ../turboSMTP-admin.php:124
+msgid "Register now and get 6.000 emails/month lifetime"
+msgstr "Inscrivez-vous maintenant et obtenez 6.000 emails/mois à vie"
+
+#: ../turboSMTP-admin.php:127
+msgid "Get turboSMTP free"
+msgstr "Obtenez gratuitement turboSMTP"
+
+#: ../turboSMTP-admin.php:131
+msgid "Need help?"
+msgstr "Besoin d'aide?"
+
+#: ../turboSMTP-admin.php:134
+msgid "Contact turboSMTP support"
+msgstr "Contactez le support de turboSMTP"
+
+#: ../turboSMTP.php:79
+msgid "Settings"
+msgstr "Paramètres"
