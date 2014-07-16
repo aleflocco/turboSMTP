@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: turboSMTP
-Plugin URI: https://github.com/aleflocco/turboSMTP
+Plugin URI: http://wordpress.org/plugins/turbosmtp/
 Description: turboSMTP WP plugin allows you to send emails via turboSMTP instead of the PHP mail() function.
-Version: 1.0
+Version: 1.1
 Author: Alessandro Flocco
 Author URI: http://www.serversmtp.com
 Text Domain: turboSMTP

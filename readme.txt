@@ -1,7 +1,7 @@
 ﻿=== turboSMTP ===
 Contributors: Alessandro Flocco
 Donate link: 
-Tags: turboSMTP,smtp,mail,email,phpmailer,mailer,wp mail,mail smtp,ssl
+Tags: turbo smtp,turboSMTP,smtp,mail,email,phpmailer,mailer,wp mail,mail smtp,ssl
 Requires at least: 2.7
 Tested up to: 3.9.1
 Stable tag: 1.1
@@ -17,9 +17,9 @@ Configure your WordPress to send emails using your own email account via turboSM
 This plugin has been translated in:
 
 * Italian
-* Spanish
 * French
 * German
+* Spanish
 
 = Usage =
 
